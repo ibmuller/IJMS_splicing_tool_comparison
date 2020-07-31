@@ -1,0 +1,1 @@
+sudo sickle-master/sickle se -f data2/myDATASETSdir/CEMWT_R30DM_30M/r30dm.fastq -t sanger -o data2/myDATASETSdir/CEMWT_R30DM_30M/trimmed_r30dm.fastq -l 101
